@@ -1,0 +1,3 @@
+module MLBScores
+
+end
